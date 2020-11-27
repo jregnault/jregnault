@@ -9,7 +9,15 @@
 
 ---
 
+## Activités
+
+### Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Activités récentes
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
