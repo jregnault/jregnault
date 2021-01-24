@@ -56,17 +56,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSS                      59 mins             ██████████████████░░░░░░░   73.87% 
-HTML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   26.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-glass-site               1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
