@@ -95,13 +95,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-### Activités récentes
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/jregnault/jregnault.github.io/issues/3) in [jregnault/jregnault.github.io](https://github.com/jregnault/jregnault.github.io)
-2. ❗️ Closed issue [#5](https://github.com/jregnault/jregnault.github.io/issues/5) in [jregnault/jregnault.github.io](https://github.com/jregnault/jregnault.github.io)
-<!--END_SECTION:activity-->
-
 ---
 
 [![jregnault's github stats](https://github-readme-stats.jregnault.vercel.app/api?username=jregnault&show_icons=true)](https://github.com/jregnault/github-readme-stats)
