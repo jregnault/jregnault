@@ -19,7 +19,7 @@
 
 > 🏆 29 Contributions in the Year 2021
  > 
-> 📦 10.4 kB Used in Github's Storage 
+> 📦 10.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +84,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jregnault/jregnault/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 ---
 
